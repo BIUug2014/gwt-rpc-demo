@@ -1,0 +1,2 @@
+serviceClass: com.example.gwtrpcdemo.client.CalculatorRS
+path: 9555707524BBE323ADFF9A818A293F9C.gwt.rpc
